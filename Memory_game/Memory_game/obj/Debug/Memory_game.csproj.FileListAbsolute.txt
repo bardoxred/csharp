@@ -1,0 +1,10 @@
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\bin\Debug\Memory_game.exe.config
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\bin\Debug\Memory_game.exe
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\bin\Debug\Memory_game.pdb
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\obj\Debug\Memory_game.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\obj\Debug\Memory_game.Form1.resources
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\obj\Debug\Memory_game.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\obj\Debug\Memory_game.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\obj\Debug\Memory_game.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\obj\Debug\Memory_game.exe
+C:\Users\Konrad\Desktop\Projekty C#\Memory_game\Memory_game\obj\Debug\Memory_game.pdb
